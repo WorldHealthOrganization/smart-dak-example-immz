@@ -6,29 +6,31 @@
 
 
 ### Summary 
-This WHO <mark>[insert health domain here]</mark> DAK <mark>add content here</mark>
+This WHO Example IMMZ DAK illustrates the way that Digital Adaptation Kit content is published.
 
 ### L1 Narrative guidelines
 <mark>[insert content here]</mark>
 
 ### L2 Operational guidelines
-The L2 <mark>[insert health domain here]</mark> Digital adaptation kit publications and implementations tools can be found here:
+The L2 Example IMMZ Digital adaptation kit publications and implementations tools can be found here:
 
 <!-- insert links inside the parentheses below --->
 - [Published DAK Document]()
 
-- [Link to core data dictionary]()
- 
-- [Link to decision support logic]() 
+- Implementation tools:
 
-- [Link to scheduling logic]() 
-
-- [Link to indicators table]()
+    - [Link to core data dictionary](https://worldhealthorganization.github.io/smart-dak-example-immz/dictionary.html)
  
-- [Link to functional and non functional requirements]()
+    - [Link to decision support logic](https://worldhealthorganization.github.io/smart-dak-example-immz/decision-logic.html) 
+
+    - [Link to scheduling logic]() 
+
+    - [Link to indicators table](https://worldhealthorganization.github.io/smart-dak-example-immz/indicators.html)
+ 
+    - [Link to functional and non functional requirements]()
 
 ### L3 Machine readable guidelines
-The L3 FHIR Implementation Guide for the <mark>[insert health domain here]</mark> SMART Guidelines is yet to be published. Links will be published here as soon as they're available.
+The L3 FHIR Implementation Guide for the Example IMMZ SMART Guidelines available here: https://worldhealthorganization.github.io/smart-example-immz/
 
 ### L4 Executable guidelines
 Reference implementations representing the L4 layer for the <mark>[insert health domain here]</mark> SMART Guidelines are not yet available. Links will be published here as soon as they're available.
