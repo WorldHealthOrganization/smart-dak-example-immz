@@ -7,9 +7,9 @@
 ![QA hints](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2FWorldHealthOrganization.github.io%2Fsmart-ig-empty%2Fqa.json&query=%24.hints&logoColor=yellow&label=QA%20hints&color=yellow)
 <!--/badges-->
 
-# WHO SMART GUIDELINES - EMPTY IG
+# WHO SMART GUIDELINES - Example Digital Adaptation Kit for Immunization
 
-This is an empty framework, to be used to create SMART Implementation Guides.
+This Digital Adaptation Kit (DAK) provides an illustrative example of the contents of a DAK. The example is a subset of the full immunization guideline, focused only on the measles immunization use case, providing examples of the data dictionary, decision logic, and indicators L2 content. The L3 Example IMMZ content is based on this L2 Example DAK.
 
 
 ## Changes and feedback
