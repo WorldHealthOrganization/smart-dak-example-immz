@@ -1,0 +1,9 @@
+[
+  {
+    "id" : "smart.who.int.dak-example-immz",
+    "type" : "ImplementationGuide",
+    "url" : "http://smart.who.int/dak-example-immz/ImplementationGuide/smart.who.int.dak-example-immz",
+    "version" : "0.1.0",
+    "name" : "DakExampleImmz"
+  }
+]
